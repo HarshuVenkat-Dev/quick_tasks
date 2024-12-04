@@ -38,11 +38,12 @@ class SignupScreen extends StatelessWidget {
             TextFormField(
               controller: passwordController,
               decoration: InputDecoration(labelText: 'Password'),
-              //obscureText: true,
+              obscureText: true,
             ),
             TextFormField(
               controller: confirmPasswordController,
               decoration: InputDecoration(labelText: 'ConfirmPassword'),
+              obscureText: true,
             ),
             // TextFormField(
             //   controller: emailController,
