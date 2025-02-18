@@ -1,6 +1,6 @@
 # quick_task
 
-A Small Flutter project with Sign-in/Sign-up, Home, add-task and edit.
+A Small Flutter project with Login, Sign-up, Home, add-task screen and edit screen.
 
 ## Getting Started
 
